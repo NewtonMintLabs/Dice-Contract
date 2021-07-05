@@ -1,0 +1,1 @@
+ganache-cli --fork https://mainnet.infura.io/v3/"id" --networkId 1001 --gasPrice 0x1 -e 100000000000000000000 --gasLimit 12500000  --mnemonic="" --max-old-space-size=8192
